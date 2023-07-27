@@ -1,6 +1,6 @@
 from django.contrib import admin
-from .models import Myusers
+from .models import Hometown
 
 # Register your models here.
 
-admin.site.register(Myusers)
+admin.site.register(Hometown)
